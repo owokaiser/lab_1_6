@@ -3,6 +3,7 @@ class Main {
     double f;
     double c;
     double d;
+    
     d= 0.56;
     System.out.println("F C");
     for(f=-450;f<=136;f++){
